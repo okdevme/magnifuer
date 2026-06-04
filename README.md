@@ -135,6 +135,8 @@ import { UseFloatingOptions } from '@floating-ui/vue';
 import { UseMagnifuerState } from '../composables/useMagnifuer';
 import { MagnifuerPosition, MagnifuerSize, OptionsToProp } from '.';
 import { UseMagnifuerScaleOptions } from '../composables/useMagnifuerScale';
+
+
 export interface MagnifuerState extends UseMagnifuerState {
   /**
    * Whether the magnifier is currently active
@@ -595,6 +597,8 @@ Miscellaneous types used across the package.
 ```ts
 import { MaybeRefOrGetter } from 'vue';
 import { MaybeReadonlyRefOrGetter } from '@floating-ui/vue';
+
+
 export type ToValue<T> = T extends MaybeReadonlyRefOrGetter<infer U>
   ? U
   : T extends MaybeRefOrGetter<infer U>

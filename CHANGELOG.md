@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/okdevme/magnifuer/compare/1.0.3...1.0.4) (2026-06-04)
+
+
+### Features
+
+* update author github username ([869d371](https://github.com/okdevme/magnifuer/commit/869d371bbfcf276b4b06779bad937397e19b2b9d))
+
 ## [1.0.3](https://github.com/arg0NNY/magnifuer/compare/1.0.2...1.0.3) (2025-02-04)
 
 
