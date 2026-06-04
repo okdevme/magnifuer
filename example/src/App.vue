@@ -85,7 +85,7 @@ const src = Image
 
     <div>
       <h1>
-        🚀 See the documentation on <a href="https://github.com/arg0NNY/magnifuer">GitHub</a>
+        🚀 See the documentation on <a href="https://github.com/okdevme/magnifuer">GitHub</a>
       </h1>
     </div>
   </main>

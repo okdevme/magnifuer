@@ -3,7 +3,7 @@
 Feature-rich Vue component and tooling for creating customizable magnifying-glass-style interfaces
 with ease.
 
-## 🕹️ [Demo](https://arg0nny.github.io/magnifuer/)
+## 🕹️ [Demo](https://okdevme.github.io/magnifuer/)
 
 - [⚡ Stackblitz Playground](https://stackblitz.com/edit/magnifuer-playground?file=src%2FApp.vue)
 
